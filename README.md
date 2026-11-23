@@ -11,15 +11,15 @@ TypeScript / React の Web アプリ開発を軸に、Cloudflare Workers 上で�
 
 HTML を画像にレンダリングする WebAssembly ライブラリ。litehtml + Skia を Emscripten で WASM 化し、Cloudflare Workers / Node.js / ブラウザなど任意の環境で動作します。前身の [satoru](https://github.com/SoraKumo001/satoru)（★68）の開発はこのプロジェクトへ移行しました。
 
-### [wasm-image-optimization](https://github.com/SoraKumo001/wasm-image-optimization) — ★127
+### [wasm-image-optimization](https://github.com/node-libraries/wasm-image-optimization) — ★127
 
-エッジランタイムで WASM による画像最適化を行うライブラリ。
+エッジランタイムで WASM による画像最適化を行うライブラリ（node-libraries）。
 
-### [prisma-accelerate-local](https://github.com/SoraKumo001/prisma-accelerate-local) — ★49
+### [prisma-accelerate-local](https://github.com/node-libraries/prisma-accelerate-local) — ★49
 
-Prisma Accelerate の機能をローカル環境で利用するためのライブラリ。
+Prisma Accelerate の機能をローカル環境で利用するためのライブラリ（node-libraries）。
 
-### [storybook-addon-module-mock](https://github.com/SoraKumo001/storybook-addon-module-mock) — ★47
+### [storybook-addon-module-mock](https://github.com/ReactLibraries/storybook-addon-module-mock) — ★47
 
 Storybook 上で `jest.mock` のようなモジュールモックを提供するアドオン。
 
